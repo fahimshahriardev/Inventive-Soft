@@ -1,0 +1,206 @@
+body{
+    font-family: 'Commissioner', sans-serif;
+}
+.nav-margin{
+    margin-left: 75px;
+}
+.menu-btn3{
+    background-color: #2970FA;
+    color: white!important;
+    padding: 10px 30px;
+    border-radius: 18px;
+    box-shadow: 0px 0px 15px #2970FA;
+}
+
+.bg-light {
+    background-color: #f8f9fa00!important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0 0 0);
+    padding: 10px 25px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: white;
+    background-color: #2970FA;
+    border-radius: 30px;
+    border-color: 1px solid #2970FA;
+}
+.about-head-right{
+	margin-top: 115px;
+}
+.about-head-our{
+	color: #CD169D;
+}
+.about-head-co{
+	color: #2970FA;
+}
+.about-bar{
+     width: 45px;
+    margin: 5px;
+    height: 2px;
+    background-color:#2970FA;
+	
+}
+.cstm-btn-1{
+	background-color: #2970FA;
+    border: 1px solid #2970FA;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 25px;
+    margin-top: 25px;
+        box-shadow: 2px 8px 50px #2970FA;
+        margin-bottom: 50px;
+}
+.ceo{
+	margin-bottom: 50px;
+}
+.message{
+	
+    background: url(../img/about-212.png)no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: -11%;
+    padding: 66px;
+    box-shadow: 0px 0px 12px #a9a3a3;
+    border-radius: 25px;
+
+}
+.ceo-text{
+	margin-top: 80px;
+}
+.mission{
+	background-color: #F7F9FF;
+	padding: 15px;
+
+}
+.about-mission-txt {
+    color: #CD169D;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.vision{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.about-vision-txt {
+    color: #CD169D;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.footer{
+	background:url(../img/about-footer.png)no-repeat;
+	background-size: cover;
+	color: white; 
+	padding: 50px;
+}
+.contact-head{
+	margin-top: 25px;
+
+}
+.bar-2{
+	background-color: white;
+	width: 20px;
+	height: 2px;
+	margin: 2px;
+		margin-bottom: 25px;
+}
+.phn-txt{
+	    margin-left: 12px;
+}
+.mail-txt{
+	    margin-left: 12px;
+}
+.cstm-phn{
+	   
+    margin-bottom: 14px;
+}
+.cstm-icon{
+	    padding: 15px;
+    font-size: 30px;
+}
+.footer-subs{
+	    margin-top: 25px;
+    margin-bottom: 0px;
+}
+.footer-email-txt{
+	    background-color: white;
+    border: 1px solid white;
+        padding: 10px 40px;
+         border-radius: 20px;
+       
+}
+.cstm-mail-icon {
+    color: #CD159D;
+    margin-top: -13px;
+    position: absolute;
+    top: 176px;
+    left: 27px;
+   
+}
+.cstm-btn-3{
+	background-color: #CD159D;
+    border: 1px solid #CD159D;
+    color: white;
+    padding: 10px 10px;
+    border-right-radius: 88px;
+    border-bottom-right-radius: 18px;
+    border-top-right-radius: 18px;
+    position: absolute;
+    top: 149px;
+    left: 233px;
+
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+
+@media (min-width: 320px) and (max-width:520px){
+    .ceo-text {
+    margin-top: 25px;
+}
+.vision {
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+}
+
+@media (min-width: 521px) and (max-width:768px){
+
+}
+
+
+@media (min-width: 769px) and (max-width:991px){
+    .about-head-right {
+    margin-top: 20px;
+}
+.ceo-text {
+    margin-top: 25px;
+    margin-left: 58px;
+}
+.res-img{
+    margin-top: 105px;
+}
+.footer-email-txt {
+    background-color: white;
+    border: 1px solid white;
+    padding: 10px 40px;
+    border-radius: 20px;
+    width: 219px;
+}
+.cstm-btn-3 {
+    background-color: #CD159D;
+    border: 1px solid #CD159D;
+    color: white;
+    padding: 10px 10px;
+    border-right-radius: 88px;
+    border-bottom-right-radius: 18px;
+    border-top-right-radius: 18px;
+    position: absolute;
+    top: 149px;
+    left: 188px;
+}
+}

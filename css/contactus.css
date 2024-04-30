@@ -1,0 +1,164 @@
+body{
+    font-family: 'Commissioner', sans-serif;
+}
+.nav-margin{
+    margin-left: 75px;
+}
+.menu-btn1{
+    background-color: #2970FA;
+    color: white!important;
+    padding: 10px 30px;
+    border-radius: 18px;
+    box-shadow: 0px 0px 15px #2970FA;
+}
+.contact{
+	background:url(../img/contact-bg.png)no-repeat;
+	background-size: cover; 
+	    padding: 25%;
+	    margin-top: -130px;
+}
+.cstm-form{
+	    background-color: white;
+    box-shadow: 0px 0px 10px grey;
+    border-radius: 18px;
+    padding: 15px 28px;
+    width: 600px;
+}
+.cstm-frm-btn {
+    background-color: #2970FA;
+    color: white;
+    border: 1px solid #2970FA;
+    padding: 10px 25px;
+    border-radius: 25px;
+}
+.cstm-user{
+	color: #2970FA;
+    position: absolute;
+    top: 43px;
+    left: 15px;
+}
+.cstm-email{
+	    position: absolute;
+    top: 145px;
+    color: #b1b0b0;
+    left: 50px;
+
+}
+.cstm-mail-field{
+	    padding: 19px 28px;
+}
+
+
+
+
+@media (min-width: 320px) and (max-width:520px){
+    .contact {
+    background: url(../img/contact-bg.png)no-repeat;
+    background-size: cover;
+    padding: -7%;
+    padding: -13px;
+    padding: 0px;
+    margin-top: 0px;
+    background-size: 100% 100%;
+    /* margin-top: -10px; */
+}
+
+.cstm-email {
+    position: absolute;
+    top: 231px;
+    color: #b1b0b0;
+    left: 50px;
+}
+.cstm-form {
+    background-color: white;
+    box-shadow: 0px 0px 10px grey;
+    border-radius: 18px;
+    padding: 15px 28px;
+    width: 380px;
+    margin-top: 0px;
+}
+
+}
+
+@media (min-width: 521px) and (max-width:768px){
+     .contact {
+    background: url(../img/contact-bg.png)no-repeat;
+    background-size: cover;
+    padding: -7%;
+    padding: -13px;
+    padding: 0px;
+    margin-top: 0px;
+    background-size: 100% 100%;
+    /* margin-top: -10px; */
+}
+
+.cstm-email {
+    position: absolute;
+    top: 231px;
+    color: #b1b0b0;
+    left: 50px;
+}
+.cstm-form {
+    background-color: white;
+    box-shadow: 0px 0px 10px grey;
+    border-radius: 18px;
+    padding: 15px 28px;
+    width: 380px;
+    margin-top: 0px;
+}
+}
+
+@media (min-width: 769px) and (max-width:991px){
+  .contact {
+    background: url(../img/contact-bg.png)no-repeat;
+    background-size: cover;
+    padding: -7%;
+    padding: -13px;
+    padding: 0px;
+    margin-top: 0px;
+  
+    padding: 134px;
+}
+
+.cstm-email {
+    position: absolute;
+    top: 145px;
+    color: #b1b0b0;
+    left: 50px;
+}
+.cstm-form {
+    background-color: white;
+    box-shadow: 0px 0px 10px grey;
+    border-radius: 18px;
+    padding: 15px 28px;
+    width: 380px;
+    margin-top: 0px;
+}
+.footer-email-txt {
+    background-color: white;
+    border: 1px solid white;
+    padding: 10px 40px;
+    border-radius: 20px;
+    width: 219px;
+}
+.cstm-btn-3 {
+    background-color: #CD159D;
+    border: 1px solid #CD159D;
+    color: white;
+    padding: 10px 10px;
+    border-right-radius: 88px;
+    border-bottom-right-radius: 18px;
+    border-top-right-radius: 18px;
+    position: absolute;
+    top: 149px;
+    left: 188px;
+}
+}
+@media (min-width: 992px) and (max-width:1200px){
+    .contact {
+    background: url(../img/contact-bg.png)no-repeat;
+    background-size: cover;
+    padding: 15%;
+    margin-top: -130px;
+}
+}

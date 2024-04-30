@@ -1,0 +1,359 @@
+body{
+    font-family: 'Commissioner', sans-serif;
+}
+.nav-margin{
+    margin-left: 75px;
+}
+.menu-btn2{
+     background-color: #2970FA;
+    color: white!important;
+    padding: 10px 30px;
+    border-radius: 18px;
+    box-shadow: 0px 0px 15px #2970FA;
+}
+.service-hero{
+	background: url(../img/service-bg-1.png)no-repeat;
+	background-size: cover;
+	    padding: 200px;
+}
+.service-box-1 {
+    background-color: white;
+    padding: 35px 25px;
+    border-bottom-radius: 23px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    margin-bottom: 45px;
+}
+.service-box-2 {
+    background-color: white;
+    padding: 20px 25px;
+    border-bottom-radius: 23px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    margin-bottom: 80px;
+}
+.service-hero-head {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    margin-top: -115px;
+}
+.dev-head{
+	    color: #CA31B3;
+    font-size: 25px;
+    text-align: center;
+    margin-top: -100px;
+}
+.dev{
+	background: url(../img/service-bg-2.png)no-repeat;
+	background-size: cover;
+	padding: 240px;
+}
+.shadow-box{
+	box-shadow: 0px 0px 10px grey;
+    padding: 0px;
+    border-radius: 50px;
+    margin-bottom: 75px;
+}
+.mobile{
+	background: url(../img/service-bg-3.png)no-repeat;
+	background-size: cover;
+	padding: 120px;
+}
+.mobile-head{
+	    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 70px;
+}
+.marketing{
+	background: url(../img/service-bg-4.png)no-repeat;
+	background-size: cover;
+	padding: 120px;
+}
+.marketing-head{
+	    color: #CA31B3;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 70px;
+}
+.market-border{
+	box-shadow: 0px 0px 10px grey;
+    padding: 0px;
+    border-radius: 40px;
+}
+.service-box-3 {
+    background-color: white;
+    padding: 15px 25px;
+    border-bottom-radius: 23px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    margin-bottom: 80px;
+}
+
+@media (min-width: 320px) and (max-width:520px){
+   .service-hero {
+    background: url(../img/service-bg-1.png)no-repeat;
+    background-size: cover;
+    padding: 0px;
+    background-size: 100% 100%;
+}
+.service-hero-head {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+}
+.service-box-1 {
+    background-color: white;
+    padding: 25px 12px;
+    border-bottom-radius: 23px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    margin-bottom: 30px;
+}
+.dev {
+    background: url(../img/service-bg-2.png)no-repeat;
+    background-size: cover;
+    padding: 0px;
+    background-size: 100% 100%;
+}
+.dev-head {
+    color: #CA31B3;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+}
+.shadow-box {
+    box-shadow: 0px 0px 10px grey;
+    padding: 0px;
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+.service-box-2 {
+    background-color: white;
+    padding: 0px 18px;
+    border-bottom-radius: 23px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    margin-bottom: 80px;
+}
+.mobile {
+    background: url(../img/service-bg-3.png)no-repeat;
+    background-size: cover;
+    padding: 0px;
+    background-size: 100% 100%;
+}
+.marketing {
+    background: url(../img/service-bg-4.png)no-repeat;
+    background-size: cover;
+    padding: 0px;
+    background-size: 100% 100%;
+}
+.service-box-3 {
+    background-color: white;
+    padding: 4px 25px;
+    border-bottom-radius: 23px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    margin-bottom: 20px;
+}
+.marketing-head {
+    color: #CA31B3;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 30px;
+    margin-top: 25px;
+}
+.market-border {
+    box-shadow: 0px 0px 10px grey;
+    padding: 0px;
+    border-radius: 40px;
+    margin-bottom: 55px;
+}
+}
+
+
+@media (min-width: 521px) and (max-width:768px){
+     .service-hero {
+    background: url(../img/service-bg-1.png)no-repeat;
+    background-size: cover;
+    padding: 0px;
+    background-size: 100% 100%;
+}
+.service-hero-head {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+}
+.service-box-1 {
+    background-color: white;
+    padding: 25px 12px;
+    border-bottom-radius: 23px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    margin-bottom: 30px;
+}
+.dev {
+    background: url(../img/service-bg-2.png)no-repeat;
+    background-size: cover;
+    padding: 0px;
+    background-size: 100% 100%;
+}
+.dev-head {
+    color: #CA31B3;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+}
+.shadow-box {
+    box-shadow: 0px 0px 10px grey;
+    padding: 0px;
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+.service-box-2 {
+    background-color: white;
+    padding: 0px 18px;
+    border-bottom-radius: 23px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    margin-bottom: 80px;
+}
+.mobile {
+    background: url(../img/service-bg-3.png)no-repeat;
+    background-size: cover;
+    padding: 0px;
+    background-size: 100% 100%;
+}
+.mobile-head {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 38px;
+    margin-top: 25px;
+}
+.marketing {
+    background: url(../img/service-bg-4.png)no-repeat;
+    background-size: cover;
+    padding: 0px;
+    background-size: 100% 100%;
+}
+.service-box-3 {
+    background-color: white;
+    padding: 4px 25px;
+    border-bottom-radius: 23px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    margin-bottom: 20px;
+}
+.market-border {
+    box-shadow: 0px 0px 10px grey;
+    padding: 0px;
+    border-radius: 40px;
+    margin-bottom: 55px;
+}
+}
+
+@media (min-width: 769px) and (max-width:991px){
+        .service-hero {
+    background: url(../img/service-bg-1.png)no-repeat;
+    background-size: cover;
+    padding: 0px;
+    background-size: 100% 100%;
+}
+.service-hero-head {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+}
+.service-box-1 {
+    background-color: white;
+    padding: 25px 12px;
+    border-bottom-radius: 23px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    margin-bottom: 30px;
+}
+.dev {
+    background: url(../img/service-bg-2.png)no-repeat;
+    background-size: cover;
+    padding: 0px;
+    background-size: 100% 100%;
+}
+.dev-head {
+    color: #CA31B3;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.shadow-box {
+    box-shadow: 0px 0px 10px grey;
+    padding: 0px;
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+.service-box-2 {
+    background-color: white;
+    padding: 0px 18px;
+    border-bottom-radius: 23px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    margin-bottom: 80px;
+}
+.mobile {
+    background: url(../img/service-bg-3.png)no-repeat;
+    background-size: cover;
+    padding: 0px;
+    background-size: 100% 100%;
+}
+.marketing-head {
+    color: #CA31B3;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 40px;
+    margin-top: 25px;
+}
+.marketing {
+    background: url(../img/service-bg-4.png)no-repeat;
+    background-size: cover;
+    padding: 0px;
+    background-size: 100% 100%;
+}
+.service-box-3 {
+    background-color: white;
+    padding: 4px 25px;
+    border-bottom-radius: 23px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    margin-bottom: 20px;
+}
+.market-border {
+    box-shadow: 0px 0px 10px grey;
+    padding: 0px;
+    border-radius: 40px;
+    margin-bottom: 55px;
+}
+.footer-email-txt {
+    background-color: white;
+    border: 1px solid white;
+    padding: 10px 40px;
+    border-radius: 20px;
+    width: 219px;
+}
+.cstm-btn-3 {
+    background-color: #CD159D;
+    border: 1px solid #CD159D;
+    color: white;
+    padding: 10px 10px;
+    border-right-radius: 88px;
+    border-bottom-right-radius: 18px;
+    border-top-right-radius: 18px;
+    position: absolute;
+    top: 149px;
+    left: 188px;
+}
+}
